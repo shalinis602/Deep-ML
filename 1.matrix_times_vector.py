@@ -1,3 +1,5 @@
+# https://www.deep-ml.com/problem/1
+
 def matrix_dot_vector(a:list[list[int|float]],b:list[int|float])-> list[int|float]:
 	c = [0] * len(a)
 	if len(a[0]) != len(b):
