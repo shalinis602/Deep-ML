@@ -1,4 +1,4 @@
-# deep-ml
+# Deep-ML
 This repository contains my solutions to ML Code Challenges on [Deep-ML.com](https://www.deep-ml.com/). 
 
 ## Setting Up the Project
