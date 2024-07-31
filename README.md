@@ -9,3 +9,4 @@ This repository contains my solutions to ML Code Challenges on [Deep-ML.com](htt
 * Linear Regression Using Gradient Descent (easy) [[Link](https://www.deep-ml.com/problem/Linear%20Regression%20Using%20Gradient%20Descent)] [[Code](https://github.com/shalinis602/Deep-ML/blob/main/linear_regression_using_gradient_descent.py)]
 * Feature Scaling Implementation (easy) [[Link](https://www.deep-ml.com/problem/Feature%20Scaling%20Implementation)] [[Code](https://github.com/shalinis602/Deep-ML/blob/main/feature_scaling_implementation.py)]
 * Principal Component Analysis (PCA) Implementation (medium) [[Link](https://www.deep-ml.com/problem/Principal%20Component%20Analysis%20(PCA)%20Implementation)] [[Code](https://github.com/shalinis602/Deep-ML/blob/main/pca_implementation.py)]
+* Single Neuron (easy) [[Link](https://www.deep-ml.com/problem/Single%20Neuron)] [[Code](https://github.com/shalinis602/Deep-ML/blob/main/single_neuron.py)]
